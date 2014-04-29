@@ -1,4 +1,4 @@
-obj/checkpoints.o: checkpoints.cpp \
+obj/checkpoints.d: checkpoints.cpp \
   /opt/local/include/boost/assign/list_of.hpp \
   /opt/local/include/boost/assign/assignment_exception.hpp \
   /opt/local/include/boost/range/iterator_range.hpp \
