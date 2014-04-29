@@ -1,8 +1,8 @@
 obj/scrypt.o: scrypt.c \
-  /Users/footballstar6226/Desktop/PlatinumBar/src/scrypt.h \
+  /Users/footballstar6226/Desktop/platinumbar-master/src/scrypt.h \
   /opt/local/include/openssl/sha.h /opt/local/include/openssl/e_os2.h \
   /opt/local/include/openssl/opensslconf.h
 scrypt.c :
-  /Users/footballstar6226/Desktop/PlatinumBar/src/scrypt.h :
+  /Users/footballstar6226/Desktop/platinumbar-master/src/scrypt.h :
   /opt/local/include/openssl/sha.h /opt/local/include/openssl/e_os2.h :
   /opt/local/include/openssl/opensslconf.h :
